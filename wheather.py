@@ -124,3 +124,4 @@ def main(page: ft.Page):
     )
 # Flet アプリケーションの実行
 ft.app(target=main)
+
